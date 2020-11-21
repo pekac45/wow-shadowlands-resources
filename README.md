@@ -5,7 +5,7 @@ Category:
 ```markdown
 ## Category Name
 ```
-Link: - make sure you leave a couple words description after name of the site
+Link: - in format `[name](link) description`
 ```markdown
-[World of Warcraft - homepage](https://worldofwarcraft.com/)
+[World of Warcraft homepage](https://worldofwarcraft.com/) Blizzard official wow homepage
 ```
