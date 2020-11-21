@@ -1,8 +1,8 @@
 ## Dungeons
 
-[Mythic Trap - m+ guides](https://mythictrap.com/)
+[Mythic Trap](https://mythictrap.com/) - Mythic + guides
 
 ## Leveling
 
 ## Goldmaking
-[Lazy Goldmaker - Professions spreadsheet](https://thelazygoldmaker.com/shadowlands-profession-spreadsheet)
+[Lazy Goldmaker](https://thelazygoldmaker.com/shadowlands-profession-spreadsheet) - Professions spreadsheet
