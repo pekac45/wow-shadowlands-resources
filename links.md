@@ -2,6 +2,9 @@
 
 [Mythic Trap](https://mythictrap.com/) - Mythic + guides
 
+## Raids
+[Castle Nathria guides](https://castle-nathria-gifs.vercel.app/)
+
 ## Leveling
 
 ## Goldmaking
