@@ -4,6 +4,7 @@
 ## Dungeons
 
 [Mythic Trap](https://mythictrap.com/) - Mythic + guides
+
 [Tank Notes](https://tanknotes.com/)
 
 ## Raids
