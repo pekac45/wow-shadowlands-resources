@@ -4,6 +4,7 @@
 ## Dungeons
 
 [Mythic Trap](https://mythictrap.com/) - Mythic + guides
+[Tank Notes](https://tanknotes.com/)
 
 ## Raids
 [Castle Nathria guides](https://castle-nathria-gifs.vercel.app/)
